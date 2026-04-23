@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Veena Rachappanavar
 
-<!--
-**veenarachappanavar-oss/veenarachappanavar-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 Background in Computer Science / IT
+- 💡 Interested in Web Development & Software Engineering
+- 🔭 Currently learning: JavaScript, React, Java, SQL
+- 📚 Exploring: Full Stack Development
+- 🎯 Goal: To become a skilled software developer and contribute to real-world projects
+
+---
+
+## 🛠️ Skills
+
+### 👨‍💻 Programming Languages
+- Java
+- JavaScript
+
+### 🌐 Web Technologies
+- HTML
+- CSS
+- React (Basics)
+
+### 🗄️ Database
+- SQL
+- PL/SQL
+
+---
+
+## 📂 Projects
+
+### 📌 Recipe & Grocery Management System
+- Helps users manage recipes and grocery items easily
+- Add ingredients and track grocery list
+- Built using: (Add your tech stack)
+
+---
+
+### 📌 Wireless Communication Project
+- (Add your explanation here in simple terms)
+- Focus on (e.g., signal transmission / networking basics)
+
+---
+
+## 📊 GitHub Stats
+![Veena's GitHub stats](https://github-readme-stats.vercel.app/api?username=veenarachappanavar-oss&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=veenarachappanavar-oss&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add your email)
+
+---
+
+## ✨ Quote
+_"Code. Learn. Build. Repeat."_
